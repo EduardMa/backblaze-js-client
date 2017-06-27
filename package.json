@@ -1,0 +1,25 @@
+{
+  "name": "backblaze-js-client",
+  "version": "1.0.0",
+  "description": "Javascript backblaze client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardMa/backblaze-js-client.git"
+  },
+  "keywords": [
+    "backblaze"
+  ],
+  "author": "Eduard Malyj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EduardMa/backblaze-js-client/issues"
+  },
+  "homepage": "https://github.com/EduardMa/backblaze-js-client#readme",
+  "dependencies": {
+    "superagent": "^3.5.2"
+  }
+}

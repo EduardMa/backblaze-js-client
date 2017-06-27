@@ -1,0 +1,6 @@
+export default {
+  account_id: ACCOUNT_ID,
+  application_key: APPLICATION_ID,
+  bucket_id: BUCKET_ID,
+  bucket_type: 'allPrivate' // or 'allPublic'
+}
